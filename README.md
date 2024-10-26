@@ -1,5 +1,5 @@
 # resumo-do-lab
- "Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO - Criando Máquinas Virtuais an Azure".
+ "Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO - Criando Máquinas Virtuais na Azure".
 
 A criação de Máquinas Virtuais (VMs) no Azure é um processo essencial para configurar ambientes computacionais flexíveis, escaláveis e adaptáveis às necessidades de aplicativos. As VMs permitem que você hospede aplicações, execute cargas de trabalho e personalize as configurações do sistema operacional e de hardware.
 
